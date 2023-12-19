@@ -1,0 +1,88 @@
+a {
+    list-style-type: none;
+    text-decoration: none;
+}
+li{
+    list-style-type: none;
+}
+#section_1{
+    height: 500px;
+}
+#text_start{
+    width: 650px;
+}
+#color_div1, #color_div2{
+    width: 160px;
+    height: 160px;
+    margin-top: 270px;
+}
+#color_div1{
+    margin-left: 230px;
+    z-index: 1;
+}
+#color_div2{
+    margin-left: 330px;
+}
+#section_2{
+    background-color: rgb(231, 231, 231);
+}
+
+.italic_yazi{
+    font-weight: bold;
+    font-style: italic;
+}
+#section_div{
+    width: 700px;
+}
+.display-2{
+    font-weight: bold;
+}
+.text_section2{
+    font-size: 20px;
+}
+.text_error{
+    font-size: 30px;
+}
+#buy_now{
+    width: 150px;
+    height: 50px;
+    font-weight: bold;
+}
+#design{
+    height: 350px;
+    width: 350px;
+}
+#fifty{
+    margin-left: 180px;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin-top: -60px;
+}
+.designText{
+    font-size: 18px;
+}
+.price{
+    font-size: 42px;
+    font-weight: bold;
+    
+}
+#ReadMore{
+    height: 50px;
+}
+.intro{
+    font-size: 50px;
+    font-weight: bold;
+}
+.introText{
+    font-size: 20px;
+}
+.mail{
+    border: none;
+    background-color: black;
+    color: grey;
+    border-bottom: 2px solid white;
+}
+.getskill{
+    font-size: 50px;
+}
